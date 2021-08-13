@@ -19,6 +19,6 @@ Very **performant**.
  - Recommended color for Water Color Property : **0093FF**
  - Recommended color for Light Foam Color Property : **FFFFFF**
  - Recommended color for Dark Color Property : **00368C**
-<br /><br />
+<br />
 
 Use a model that has a large number of vertices to make full use of the shader's capability.
