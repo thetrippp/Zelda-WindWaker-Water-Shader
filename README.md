@@ -4,3 +4,4 @@ Very vivid and amazing looking water shader.<br />
 Very **performant**.
 
 **Followed Daniel Illet's Tutorial:** https://www.youtube.com/watch?v=NHy3rSKtRmc
+**Check out his other stuff:** https://www.youtube.com/channel/UClgoE54W_4rX7jzZGiCmrXw
