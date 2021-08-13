@@ -9,4 +9,4 @@ Very **performant**.
 **Water Shader on Standard Plane 3D Asset in Unity**<br />
 <img src="./Images/Base.gif" width=100%><br />
 <br />
-Use a model that has a large number of vertices to make full use of the shader'c capability.
+Use a model that has a large number of vertices to make full use of the shader's capability.
