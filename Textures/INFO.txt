@@ -1,0 +1,6 @@
+Flowmap is a normal map that helps with 
+offsetting the vertices of the object that 
+you are going to apply this shader to.
+
+Voronoi1 and Voronoi2 are textures to apply 
+foam and shadows for the shader.
